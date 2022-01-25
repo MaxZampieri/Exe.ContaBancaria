@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\bin\Debug\netcoreapp3.1\Exe.ContaBancaria.exe
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\bin\Debug\netcoreapp3.1\Exe.ContaBancaria.deps.json
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\bin\Debug\netcoreapp3.1\Exe.ContaBancaria.runtimeconfig.json
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\bin\Debug\netcoreapp3.1\Exe.ContaBancaria.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\bin\Debug\netcoreapp3.1\Exe.ContaBancaria.dll
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\bin\Debug\netcoreapp3.1\Exe.ContaBancaria.pdb
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.dll
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.pdb
+C:\Users\Usuario\Documents\Udemy C# 2\Exe.ContaBancaria\Exe.ContaBancaria\obj\Debug\netcoreapp3.1\Exe.ContaBancaria.genruntimeconfig.cache
